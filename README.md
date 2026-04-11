@@ -19,7 +19,7 @@ Features:
 - Attempt limit
 - User input validation
 
-3. Smart To-Do Manager (CLI) ⭐
+### 3. Smart To-Do Manager (CLI) ⭐
 
 An advanced command-line task manager with real-world features.
 
